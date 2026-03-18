@@ -7,7 +7,5 @@ public class HelloApp {
         } else {
             System.out.println("Hello, World!");
         }
-
     }
-
 }
